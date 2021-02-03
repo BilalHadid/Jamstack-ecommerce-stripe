@@ -19,7 +19,9 @@
     "@stripe/stripe-js": "^1.11.0",
     "dotenv": "^8.2.0",
     "gatsby": "^2.26.1",
+    "gatsby-source-stripe": "^3.2.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "stripe": "^8.132.0"
   }
 }
